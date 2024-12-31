@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: the unpredictable order of hash iteration.  The script `bug.pl` shows how iterating through a hash using `keys` does not guarantee a consistent order. The solution `bugSolution.pl` illustrates how to maintain order if needed.
